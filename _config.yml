@@ -5,4 +5,4 @@ include: ["assets"]
 
 
 plugins:
-  jekyll-remote-theme
+- jekyll-remote-theme
