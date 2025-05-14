@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 title: MCKADE GRUNEWALD
 description: Welcome to my personal website showcasing my projects ! !
 include: ["assets"]
