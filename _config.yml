@@ -1,0 +1,8 @@
+remote_theme: "mmistakes/minimal-mistakes"
+title: MCKADE GRUNEWALD
+description: Welcome to my personal website showcasing my projects ! !
+include: ["assets"]
+
+
+plugins:
+  jekyll-remote-theme
