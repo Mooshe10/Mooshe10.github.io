@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./pages/about.md).
 
 There should be whitespace between paragraphs.
 
@@ -100,7 +100,6 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -108,6 +107,7 @@ end
 <dd>Godzilla</dd>
 <dt>Born</dt>
 <dd>1952</dd>
+<dd>2025</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
@@ -121,3 +121,9 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+### Some of muh work
+![Demo Reel](./assets/Demo2.mp4)
+
+### About
+I like makeing worlds and have a habit of destroying them.
